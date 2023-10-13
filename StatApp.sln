@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatApp", "StatApp\StatApp.csproj", "{F57FB443-376C-4D47-ABA9-0A09FD616A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57FB443-376C-4D47-ABA9-0A09FD616A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57FB443-376C-4D47-ABA9-0A09FD616A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57FB443-376C-4D47-ABA9-0A09FD616A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57FB443-376C-4D47-ABA9-0A09FD616A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA49BBD-A230-4889-94D9-11EB63BF69AC}
+	EndGlobalSection
+EndGlobal
