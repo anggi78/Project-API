@@ -1,0 +1,6 @@
+C:\Users\Anggi\source\repos\StatLibrary\StatLibrary\obj\Debug\StatLibrary.csproj.AssemblyReference.cache
+C:\Users\Anggi\source\repos\StatLibrary\StatLibrary\obj\Debug\StatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anggi\source\repos\StatLibrary\StatLibrary\bin\Debug\StatLibrary.dll
+C:\Users\Anggi\source\repos\StatLibrary\StatLibrary\bin\Debug\StatLibrary.pdb
+C:\Users\Anggi\source\repos\StatLibrary\StatLibrary\obj\Debug\StatLibrary.dll
+C:\Users\Anggi\source\repos\StatLibrary\StatLibrary\obj\Debug\StatLibrary.pdb
